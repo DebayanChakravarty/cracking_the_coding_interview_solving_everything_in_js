@@ -12,6 +12,9 @@
 
 - Contributions welcome
 
+- #### WarmUp
+  
+
 ## List of Coding Questions:
 
 #### Chapter 1 
@@ -133,10 +136,4 @@
 - [x] 10.11 - Peaks And Valleys
 
 <br>
-
-## Test
-
-```sh
-npm test
-```
 
